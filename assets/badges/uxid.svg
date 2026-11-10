@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 32" width="90" height="32" role="img" aria-label="UXID">
+  <rect x="0.75" y="0.75" width="88.5" height="30.5" rx="8" fill="#161E2E" stroke="#2C384E" stroke-width="1.2" />
+  <path d="M14 9 L26 15 L20 17 L18 23 Z" fill="#38BDF8" />
+  <text x="36" y="20" fill="#F1F5F9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">UXID</text>
+</svg>
+

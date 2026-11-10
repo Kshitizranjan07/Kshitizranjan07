@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 116" width="900" height="116" role="img" aria-label="UX Design Process: Audit and Discover, Information Architecture, Interface and Interaction, Iterate and Refine">
+  <defs>
+    <linearGradient id="stepBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161E2E" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+
+  <!-- Step 1: Audit & Discover -->
+  <rect x="2" y="6" width="204" height="104" rx="12" fill="url(#stepBg)" stroke="#293548" stroke-width="1.2" />
+  <rect x="16" y="20" width="30" height="30" rx="8" fill="#38BDF8" fill-opacity="0.14" stroke="#38BDF8" stroke-opacity="0.4" />
+  <circle cx="29.5" cy="33.5" r="5.5" fill="none" stroke="#38BDF8" stroke-width="1.8" />
+  <line x1="33.5" y1="37.5" x2="37.5" y2="41.5" stroke="#38BDF8" stroke-width="1.8" stroke-linecap="round" />
+  <text x="174" y="34" fill="#475569" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="700">01</text>
+  <text x="16" y="72" fill="#F1F5F9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600">Audit &amp; Discover</text>
+  <text x="16" y="92" fill="#94A3B8" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Heuristics &amp; usability gaps</text>
+
+  <!-- Connector 1 -> 2 -->
+  <path d="M210 58 L228 58" stroke="#475569" stroke-width="1.5" stroke-dasharray="3 3" />
+  <path d="M224 54 L229 58 L224 62" fill="none" stroke="#64748B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Step 2: Information Architecture -->
+  <rect x="233" y="6" width="204" height="104" rx="12" fill="url(#stepBg)" stroke="#293548" stroke-width="1.2" />
+  <rect x="247" y="20" width="30" height="30" rx="8" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.4" />
+  <rect x="259" y="26" width="6" height="5" rx="1.5" fill="#A78BFA" />
+  <rect x="253" y="39" width="6" height="5" rx="1.5" fill="#A78BFA" />
+  <rect x="265" y="39" width="6" height="5" rx="1.5" fill="#A78BFA" />
+  <path d="M262 31 V35 H256 V39 M262 35 H268 V39" fill="none" stroke="#A78BFA" stroke-width="1.4" />
+  <text x="405" y="34" fill="#475569" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="700">02</text>
+  <text x="247" y="72" fill="#F1F5F9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600">Structure &amp; IA</text>
+  <text x="247" y="92" fill="#94A3B8" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">User flows &amp; site hierarchy</text>
+
+  <!-- Connector 2 -> 3 -->
+  <path d="M441 58 L459 58" stroke="#475569" stroke-width="1.5" stroke-dasharray="3 3" />
+  <path d="M455 54 L460 58 L455 62" fill="none" stroke="#64748B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Step 3: Interface & Interaction -->
+  <rect x="464" y="6" width="204" height="104" rx="12" fill="url(#stepBg)" stroke="#293548" stroke-width="1.2" />
+  <rect x="478" y="20" width="30" height="30" rx="8" fill="#F472B6" fill-opacity="0.14" stroke="#F472B6" stroke-opacity="0.4" />
+  <rect x="485" y="27" width="16" height="16" rx="3" fill="none" stroke="#F472B6" stroke-width="1.6" />
+  <line x1="485" y1="33" x2="501" y2="33" stroke="#F472B6" stroke-width="1.4" />
+  <line x1="491" y1="33" x2="491" y2="43" stroke="#F472B6" stroke-width="1.4" />
+  <text x="636" y="34" fill="#475569" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="700">03</text>
+  <text x="478" y="72" fill="#F1F5F9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600">UI &amp; Interaction</text>
+  <text x="478" y="92" fill="#94A3B8" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Visual systems &amp; prototypes</text>
+
+  <!-- Connector 3 -> 4 -->
+  <path d="M672 58 L690 58" stroke="#475569" stroke-width="1.5" stroke-dasharray="3 3" />
+  <path d="M686 54 L691 58 L686 62" fill="none" stroke="#64748B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Step 4: Iterate & Refine -->
+  <rect x="695" y="6" width="203" height="104" rx="12" fill="url(#stepBg)" stroke="#293548" stroke-width="1.2" />
+  <rect x="709" y="20" width="30" height="30" rx="8" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.4" />
+  <path d="M718 35 L722 39 L730 30" fill="none" stroke="#34D399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="866" y="34" fill="#475569" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="700">04</text>
+  <text x="709" y="72" fill="#F1F5F9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600">Review &amp; Refine</text>
+  <text x="709" y="92" fill="#94A3B8" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Clarity, polish &amp; consistency</text>
+</svg>
+

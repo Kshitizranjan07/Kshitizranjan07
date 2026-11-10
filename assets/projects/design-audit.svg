@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 164" width="430" height="164" role="img" aria-label="Design Audit — Figma Design Preview">
+  <defs>
+    <linearGradient id="daBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#131F33" />
+    </linearGradient>
+    <radialGradient id="daGlow" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="428" height="162" rx="12" fill="url(#daBg)" stroke="#293548" stroke-width="1.2" />
+  <rect x="1" y="1" width="428" height="162" rx="12" fill="url(#daGlow)" />
+
+  <!-- Top Pill Badge -->
+  <rect x="308" y="16" width="104" height="22" rx="11" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.4" />
+  <text x="360" y="30.5" text-anchor="middle" fill="#6EE7B7" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="0.6">FIGMA DESIGN</text>
+
+  <!-- Audit UI Mockup Card -->
+  <rect x="24" y="24" width="256" height="116" rx="10" fill="#182235" stroke="#2C3B54" stroke-width="1" />
+  <!-- Row 1 -->
+  <rect x="38" y="40" width="16" height="16" rx="4" fill="#10B981" fill-opacity="0.2" stroke="#34D399" stroke-width="1.2" />
+  <path d="M42 48 L45 51 L50 45" fill="none" stroke="#34D399" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="64" y="42" width="108" height="6" rx="3" fill="#E2E8F0" fill-opacity="0.85" />
+  <rect x="64" y="52" width="64" height="4" rx="2" fill="#64748B" />
+  <rect x="224" y="43" width="42" height="12" rx="6" fill="#34D399" fill-opacity="0.15" />
+  <rect x="232" y="47" width="26" height="4" rx="2" fill="#34D399" />
+
+  <!-- Row 2 -->
+  <rect x="38" y="72" width="16" height="16" rx="4" fill="#38BDF8" fill-opacity="0.2" stroke="#38BDF8" stroke-width="1.2" />
+  <path d="M42 80 L45 83 L50 77" fill="none" stroke="#38BDF8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="64" y="74" width="128" height="6" rx="3" fill="#CBD5E1" fill-opacity="0.8" />
+  <rect x="64" y="84" width="84" height="4" rx="2" fill="#64748B" />
+  <rect x="224" y="75" width="42" height="12" rx="6" fill="#38BDF8" fill-opacity="0.15" />
+  <rect x="232" y="79" width="26" height="4" rx="2" fill="#38BDF8" />
+
+  <!-- Row 3 -->
+  <rect x="38" y="104" width="16" height="16" rx="4" fill="#F59E0B" fill-opacity="0.2" stroke="#FBBF24" stroke-width="1.2" />
+  <circle cx="46" cy="112" r="2.2" fill="#FBBF24" />
+  <rect x="64" y="106" width="92" height="6" rx="3" fill="#CBD5E1" fill-opacity="0.7" />
+  <rect x="64" y="116" width="56" height="4" rx="2" fill="#64748B" />
+  <rect x="224" y="107" width="42" height="12" rx="6" fill="#FBBF24" fill-opacity="0.15" />
+  <rect x="232" y="111" width="26" height="4" rx="2" fill="#FBBF24" />
+
+  <!-- Right Side Heuristic Meter -->
+  <rect x="296" y="54" width="114" height="86" rx="10" fill="#182235" stroke="#2C3B54" stroke-width="1" />
+  <circle cx="353" cy="94" r="24" fill="none" stroke="#283549" stroke-width="5" />
+  <circle cx="353" cy="94" r="24" fill="none" stroke="#34D399" stroke-width="5" stroke-dasharray="116 151" stroke-linecap="round" transform="rotate(-90 353 94)" />
+  <path d="M346 94 L351 99 L361 88" fill="none" stroke="#6EE7B7" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="323" y="126" width="60" height="4" rx="2" fill="#475569" />
+</svg>
+

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 164" width="430" height="164" role="img" aria-label="Health Care 6D — Figma Design Preview">
+  <defs>
+    <linearGradient id="hcBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#111F32" />
+    </linearGradient>
+    <radialGradient id="hcGlow" cx="25%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="428" height="162" rx="12" fill="url(#hcBg)" stroke="#293548" stroke-width="1.2" />
+  <rect x="1" y="1" width="428" height="162" rx="12" fill="url(#hcGlow)" />
+
+  <!-- Top Pill Badge -->
+  <rect x="308" y="16" width="104" height="22" rx="11" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.4" />
+  <text x="360" y="30.5" text-anchor="middle" fill="#7DD3FC" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="0.6">FIGMA DESIGN</text>
+
+  <!-- Medical Icon Card -->
+  <rect x="24" y="24" width="114" height="116" rx="10" fill="#182235" stroke="#2C3B54" stroke-width="1" />
+  <circle cx="81" cy="68" r="24" fill="#38BDF8" fill-opacity="0.14" stroke="#38BDF8" stroke-opacity="0.45" stroke-width="1.2" />
+  <path d="M77 57 H85 V64 H92 V72 H85 V79 H77 V72 H70 V64 H77 Z" fill="#38BDF8" />
+  <rect x="46" y="106" width="70" height="6" rx="3" fill="#E2E8F0" fill-opacity="0.8" />
+  <rect x="56" y="118" width="50" height="4" rx="2" fill="#64748B" />
+
+  <!-- Pulse & Modular 6D Cards -->
+  <rect x="154" y="50" width="256" height="44" rx="9" fill="#182235" stroke="#2C3B54" stroke-width="1" />
+  <path d="M170 72 H204 L214 58 L224 85 L234 64 L242 72 H290" fill="none" stroke="#34D399" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="310" y="64" width="84" height="6" rx="3" fill="#CBD5E1" fill-opacity="0.75" />
+  <rect x="310" y="75" width="54" height="4" rx="2" fill="#64748B" />
+
+  <!-- Bottom 3 Modular Dimension Pills (6D motif) -->
+  <rect x="154" y="104" width="80" height="36" rx="8" fill="#182235" stroke="#2C3B54" stroke-width="1" />
+  <rect x="166" y="114" width="24" height="5" rx="2.5" fill="#38BDF8" />
+  <rect x="166" y="124" width="52" height="4" rx="2" fill="#475569" />
+
+  <rect x="242" y="104" width="80" height="36" rx="8" fill="#182235" stroke="#2C3B54" stroke-width="1" />
+  <rect x="254" y="114" width="24" height="5" rx="2.5" fill="#34D399" />
+  <rect x="254" y="124" width="52" height="4" rx="2" fill="#475569" />
+
+  <rect x="330" y="104" width="80" height="36" rx="8" fill="#182235" stroke="#2C3B54" stroke-width="1" />
+  <rect x="342" y="114" width="24" height="5" rx="2.5" fill="#A78BFA" />
+  <rect x="342" y="124" width="52" height="4" rx="2" fill="#475569" />
+</svg>
+

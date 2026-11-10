@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148 30" width="148" height="30" role="img" aria-label="Open in Figma">
+  <rect x="0.75" y="0.75" width="146.5" height="28.5" rx="8" fill="#1D273B" stroke="#3B4B6B" stroke-width="1.2" />
+  <g transform="translate(11, 6.5) scale(0.7)">
+    <path d="M5 12a3 3 0 0 1 3-3h3v6H8a3 3 0 0 1-3-3z" fill="#A259FF" />
+    <path d="M5 6a3 3 0 0 1 3-3h3v6H8a3 3 0 0 1-3-3z" fill="#F24E1E" />
+    <path d="M11 3h3a3 3 0 0 1 0 6h-3V3z" fill="#FF7262" />
+    <circle cx="14" cy="12" r="3" fill="#1ABCFE" />
+    <path d="M5 18a3 3 0 0 1 3-3h3v3a3 3 0 0 1-6 0z" fill="#0ACF83" />
+  </g>
+  <text x="33" y="19" fill="#E2E8F0" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Open in Figma ↗</text>
+</svg>
+

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72" role="img" aria-label="Kshitiz Ranjan — UXID Portfolio Footer">
+  <defs>
+    <linearGradient id="ftBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0F17" />
+      <stop offset="50%" stop-color="#131B2E" />
+      <stop offset="100%" stop-color="#0B0F17" />
+    </linearGradient>
+    <linearGradient id="ftLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#F472B6" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="4" width="896" height="64" rx="14" fill="url(#ftBg)" stroke="#263042" stroke-width="1.2" />
+  <rect x="180" y="14" width="540" height="1.5" fill="url(#ftLine)" />
+  <text x="450" y="42" text-anchor="middle" fill="#CBD5E1" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Designed &amp; Structured in Figma &amp; FigJam · B.Des (UXID) · MUJ</text>
+</svg>
+
